@@ -1,0 +1,10 @@
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\bin\Debug\ProjectRaisesGUI.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\bin\Debug\ProjectRaisesGUI.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\bin\Debug\ProjectRaisesGUI.pdb
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.Form1.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.Properties.Resources.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.csproj.GenerateResource.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.pdb

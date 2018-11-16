@@ -1,0 +1,7 @@
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\bin\Debug\Age Insult Generator.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\bin\Debug\Age Insult Generator.exe
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\bin\Debug\Age Insult Generator.pdb
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\obj\Debug\Age Insult Generator.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\obj\Debug\Age Insult Generator.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\obj\Debug\Age Insult Generator.exe
+C:\Users\gw309661\Desktop\C#\chapter 4\Age Insult Generator\Age Insult Generator\obj\Debug\Age Insult Generator.pdb

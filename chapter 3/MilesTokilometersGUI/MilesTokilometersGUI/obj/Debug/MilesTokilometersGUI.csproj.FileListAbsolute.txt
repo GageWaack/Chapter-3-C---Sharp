@@ -1,0 +1,10 @@
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\bin\Debug\MilesTokilometersGUI.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\bin\Debug\MilesTokilometersGUI.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\bin\Debug\MilesTokilometersGUI.pdb
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.Form1.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.Properties.Resources.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.csproj.GenerateResource.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\MilesTokilometersGUI\MilesTokilometersGUI\obj\Debug\MilesTokilometersGUI.pdb

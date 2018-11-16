@@ -1,0 +1,29 @@
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\bin\Debug\FixedDebugThree3.exe
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\bin\Debug\FixedDebugThree3.pdb
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Form1.resources
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Properties.Resources.resources
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.pdb
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csproj.GenerateResource.Cache
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.pdb
+S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.pdb
+S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csprojResolveAssemblyReference.cache
+S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Form1.resources
+S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Properties.Resources.resources
+S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csproj.GenerateResource.Cache
+C:\Users\brosiusj\Desktop\C#\Chapter-3\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+C:\Users\brosiusj\Desktop\C#\Chapter-3\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csprojResolveAssemblyReference.cache
+C:\Users\brosiusj\Desktop\C#\Chapter-3\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Form1.resources
+C:\Users\brosiusj\Desktop\C#\Chapter-3\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Properties.Resources.resources
+C:\Users\brosiusj\Desktop\C#\Chapter-3\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csproj.GenerateResource.Cache
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Form1.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Properties.Resources.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csproj.GenerateResource.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\bin\Debug\FixedDebugThree3.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\bin\Debug\FixedDebugThree3.pdb
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.pdb

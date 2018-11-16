@@ -1,0 +1,5 @@
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Release\FixedDebugThree2.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Release\FixedDebugThree2.Form1.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Release\FixedDebugThree2.Properties.Resources.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Release\FixedDebugThree2.csproj.GenerateResource.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\Chapter-3-master\DebuggingExercises\DebugThree2\FixedDebugThree2\obj\x86\Release\FixedDebugThree2.csproj.CoreCompileInputs.cache

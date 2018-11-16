@@ -1,0 +1,10 @@
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.Form1.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.Properties.Resources.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\bin\Debug\RealEggsInteractiveGUI.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\bin\Debug\RealEggsInteractiveGUI.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\bin\Debug\RealEggsInteractiveGUI.pdb
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\RealEggsInteractiveGUI\RealEggsInteractiveGUI\obj\Debug\RealEggsInteractiveGUI.pdb

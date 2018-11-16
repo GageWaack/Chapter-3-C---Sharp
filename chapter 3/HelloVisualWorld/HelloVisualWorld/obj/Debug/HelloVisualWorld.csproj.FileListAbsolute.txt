@@ -1,0 +1,10 @@
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojAssemblyReference.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Form1.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.CoreCompileInputs.cache
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\gw309661\Desktop\C#\chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
